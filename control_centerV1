@@ -1,6 +1,6 @@
 {
  "status":true,
- "compress": true,
+ "simplify": true,
  "reach_us": "sophamrg@gmail.com",
  "website": "",
  "blacklist_mission":[],
