@@ -1,9 +1,11 @@
 {
  "status":true,
- "compress": false,
+ "compress": true,
  "reach_us": "sophamrg@gmail.com",
  "website": "",
- "blacklist": [],
+ "blacklist_mission":[],
+ "blacklist_computer":[],
+ "blacklist_device": [],
  "additional_ext": [],
  "other": ""
 }
